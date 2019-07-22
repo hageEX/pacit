@@ -2,13 +2,13 @@
 ##### for [*Parrot Security*](https://www.parrotsec.org/)
 ---
 
- - *Icon base*
+ - Icon base
 *[<sub>BUELLIGAN</sub> /**Validus**](https://www.mate-look.org/p/1275784/)*
 
- - *Theme base*
+ - Theme base
 *[<sub>themix-project</sub> /**oomox**](https://github.com/themix-project/oomox)*
 
- - *Conky base*
+ - Conky base
 *[<sub>ParrotSec</sub> /**parrot-conky**](https://github.com/ParrotSec/parrot-conky)*
 ---
 ![desktop](https://raw.githubusercontent.com/hageEX/pacit/master/screenshots/desktop-conky.png)
