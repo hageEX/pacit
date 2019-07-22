@@ -20,7 +20,7 @@ case $keyboard in
         echo "Setup to /usr/share/applications/conky-start.desktop"
         echo "Setup to ~/Desktop/conky-start.desktop"
         echo "Setup to /usr/share/fonts/trutype/future"
-        apt install conky conky-all
+        sudo apt install conky conky-all
         echo "Complete."
         ;;
     * )
