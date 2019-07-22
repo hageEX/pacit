@@ -1,4 +1,4 @@
-![screenshots](https://raw.githubusercontent.com/hageEX/pacit/screenshots/menu.png)
+![screenshots](https://raw.githubusercontent.com/hageEX/pacit/master/screenshots/desktop-conky.png)
 ---
 ## Hackers_Icon, Theme & Parrot Conky
 ##### for [*Parrot Security*](https://www.parrotsec.org/)
