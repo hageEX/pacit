@@ -21,6 +21,7 @@ case $keyboard in
         echo "Setup to ~/Desktop/conky-start.desktop"
         echo "Setup to /usr/share/fonts/trutype/future"
         sudo apt install conky conky-all
+        conky &
         echo "Complete."
         ;;
     * )
