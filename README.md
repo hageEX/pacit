@@ -1,5 +1,5 @@
 # Hackers_Icon, Theme & Parrot Conky
-##### for [*Parrot Security*](https://www.parrotsec.org/)
+##### for [*Parrot Security & Home*](https://www.parrotsec.org/)
 
  - Icon base
 *[<sub>BUELLIGAN</sub> / **Validus**](https://www.mate-look.org/p/1275784/)*
