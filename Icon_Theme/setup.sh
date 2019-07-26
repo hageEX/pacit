@@ -9,7 +9,7 @@ mkdir -p ~/.themes
 cp -r Hackers_icon ~/.icons
 cp -r Hackers_theme ~/.themes
 
-apt -y install curl
+sudo apt -y install curl
 curl -o ~/Pictures/ghost.jpg https://wallpapercave.com/wp/wp3277998.jpg
 gsettings set org.mate.background picture-filename ~/Pictures/ghost.jpg
 
