@@ -12,7 +12,5 @@
 
 ### Screenshots
 ---
-![desktop](https://raw.githubusercontent.com/hageEX/pacit/master/screenshots/desktop-conky.png)
----
-![menu](https://raw.githubusercontent.com/hageEX/pacit/master/screenshots/menu.png)
+![desktop](https://raw.githubusercontent.com/hageEX/pacit/master/screenshots/desktop.png)
 ---
