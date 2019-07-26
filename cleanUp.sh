@@ -10,10 +10,11 @@ case $keyboard in
         rm -rf Icon_Theme/Hackers_theme
         rm -r ~/.icons/Hackers_icon
         rm -r ~/.themes/Hackers_theme
-        rm -r ~/.config/conky
+        rm ~/.config/conky/conky.conf
         rm ~/Desktop/conky-start.desktop
         rm ~/Pictures/ghost.jpg
-        sudo rm -r /etc/conky
+        sudo rm /etc/conky/parrot.png
+        sudo rm /etc/conky/rings.lua
         sudo rm -r /usr/share/fonts/truetype/future
         sudo rm -r /usr/local/share/pixmaps
         sudo rm /usr/share/applications/conky-start.desktop
