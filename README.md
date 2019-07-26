@@ -10,7 +10,7 @@
  - Conky base
 *[<sub>ParrotSec</sub> / **parrot-conky**](https://github.com/ParrotSec/parrot-conky)*
 
-### Screenshots
+### Screenshot
 ---
 ![desktop](https://raw.githubusercontent.com/hageEX/pacit/master/screenshots/desktop.png)
 ---
