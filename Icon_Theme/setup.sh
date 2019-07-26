@@ -1,5 +1,6 @@
 #!/bin/sh
 
+tar zxvf icon-theme.tar.gz
 sudo mkdir -p /usr/local/share/pixmaps
 sudo cp -u vender/parrot.svg vender/parrot-logo.png /usr/local/share/pixmaps
 sudo cp -u vender/parrot-icons/* /usr/local/share/pixmaps
