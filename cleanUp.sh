@@ -37,8 +37,8 @@ case $keyboard in
         echo 'remove /usr/share/local/pixmaps'
         echo 'Change Default theme'
         echo 'Change Default icon'
-        sudo apt -y remove curl conky conky-all
-        echo 'remove curl conky conky-all'
+        sudo apt -y remove conky conky-all
+        echo 'remove conky conky-all'
         echo 'Complete. Thank you.'
         ;;
     "" | * )
