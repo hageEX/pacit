@@ -23,6 +23,7 @@ case $keyboard in
         gsettings set org.mate.Marco.general theme ARK-Dark
         gsettings set org.mate.interface gtk-theme ARK-Dark
         gsettings set org.mate.interface icon-theme maia
+        gsettings set org.mate.caja.preferences show-icon-text local-only
 
         echo 'remove Icon_Theme/Hackers_icon'
         echo 'remove Icon_Theme/Hackers_theme'
@@ -39,8 +40,7 @@ case $keyboard in
         echo 'remove /usr/share/local/pixmaps'
         echo 'Change Default theme'
         echo 'Change Default icon'
-        sudo apt -y remove conky conky-all
-        echo 'remove conky conky-all'
+        sudo apt remove conky conky-all
         echo 'Complete. Thank you.'
         ;;
     "" | * )
