@@ -20,3 +20,5 @@ gsettings set org.mate.panel.menubar icon-name parrot
 gsettings set org.mate.Marco.general theme Hackers_theme
 gsettings set org.mate.interface gtk-theme Hackers_theme
 gsettings set org.mate.interface icon-theme Hackers_icon
+
+gsettings set org.mate.caja.preferences show-icon-text never
